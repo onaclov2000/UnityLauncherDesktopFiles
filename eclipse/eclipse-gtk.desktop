@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=4.2
+Name=Eclipse
+Comment=ANDROID IDE
+Exec=<path to exec>
+Type=Application
+Icon=<path to icon>
+Terminal=false
+Categories=Development;IDE
+NoDisplay=false
