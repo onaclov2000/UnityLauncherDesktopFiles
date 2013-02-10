@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=TrueCrypt
+Comment=Encrypted Storage
+Exec=/usr/bin/truecrypt
+Type=Application
+Icon=<path to icon>
+Terminal=false
+Categories=Encryption;Drive
+NoDisplay=false
