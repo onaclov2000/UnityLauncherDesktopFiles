@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Version=4.2
+Name=Caelum Media Server
+Comment=Node JS Server
+Exec=sudo node /home/onaclov/Dropbox/roku/git/CaelumMediaPlayer/server/CaelumMediaServer.js
+Type=Application
+Icon=/home/onaclov/Dropbox/roku/git/CaelumMediaPlayer/server/ic_launcher_HD.png
+Terminal=true
+Categories=Media;Server
+NoDisplay=false
+Name[en_US]=caelummediaserver.desktop
